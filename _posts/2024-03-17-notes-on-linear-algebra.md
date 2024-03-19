@@ -3,7 +3,7 @@ layout: post
 title: "线代笔记"
 author: "evilkant"
 date: 2023-03-18
-categories: jekyll update
+categories: learning
 tag: 数学
 ---
 

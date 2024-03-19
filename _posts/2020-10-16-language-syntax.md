@@ -2,8 +2,8 @@
 layout: post
 title:  "《语言学概要》笔记：语法"
 author: "evilkant"
-date:   2020-10-16
-categories: jekyll update
+date: 2020-10-16
+categories: learning
 tag: 语言学
 ---
 #### 一. 语法和语法单位

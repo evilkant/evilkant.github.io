@@ -2,8 +2,8 @@
 layout: post
 title: "《罪与罚》"
 author: "evilkant"
-date: 2021-1-3
-categories: jekyll update
+date: 2021-01-03
+categories: learning
 tag: 文学
 ---
 
