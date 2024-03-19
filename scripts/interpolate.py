@@ -34,16 +34,21 @@ def plot_points(datapoints):
     xx = [x_min + i*step for i in range(n+1)]
     yy = [lagrange_interpolate(datapoints, xi) for xi in xx]
 
+
+    plt.style.use('dark_background')
+
     # Plot the points
     plt.scatter(x, y, marker='*', s=50)
-
     # Plot interpolated points
     plt.scatter(xx, yy, alpha=0.1, s=10)
     
     # Add labels and show the plot
     plt.xlabel('X coordinate')
     plt.ylabel('Y coordinate')
-    plt.title('Plot of Data Points')
+    plt.title('Lagrange interpolation')
+    
+    #save plot with transparent background
+    plt.savefig('../assets/img/interpolate.png', transparent=True)
     plt.show()
 
 
