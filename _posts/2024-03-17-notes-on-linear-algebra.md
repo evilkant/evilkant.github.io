@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "线代笔记"
+title: "线代笔记（Week1-2）"
 author: "evilkant"
 date: 2023-03-21
 categories: learning
